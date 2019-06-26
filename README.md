@@ -2,6 +2,8 @@
 
 This project is for using MatLab to generate Piet Mondrian-esque paitings. It was originally assigned as a project for MA 360 Mathematical Programming at The University of Alabama at Birmingham.
 
+* Visit [my website](https://jrquick.com) for me cool stuff!
+
 ## License
 
 MIT License
