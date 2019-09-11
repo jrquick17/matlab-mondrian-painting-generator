@@ -8,10 +8,10 @@ figure
 axis equal off
 hold on
 
-N = 40;
+N = 40; % Number of squares
 
-xBoard = 100000;
-yBoard = 100000;
+xBoard = 100000; # Length of painting
+yBoard = 100000; # Height of painting
 
 xMin = xBoard / 4;
 yMin = yBoard / 4;
